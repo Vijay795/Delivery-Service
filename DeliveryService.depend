@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1444185896 source:c:\users\vijay\desktop\deliveryservice\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+
+1444182296 source:c:\users\vijay\google drive\deliveryservice\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+
